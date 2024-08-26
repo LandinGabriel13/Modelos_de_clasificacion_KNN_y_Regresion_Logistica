@@ -3,4 +3,4 @@ los algoritmos que se emplean son K-Nearest Neighbors (KNN) y Regresión Logíst
 los temas que se cubren corresponden a los procesos más comunes en la aplicación de estos algoritmos, así como algunas métricas de evaluación.
 Para el ejemplo de KNN, el objetivo es predecir clientes de un servicio de telecomunicaciones en 4 diferentes clases a partir de características sociodemográficas; 
 en el de Regresión Logística el objetivo es predecir casos de diabetes a partir de características como son: número de embarazos, glucosa, edad, presión arterial, IMC, entre otras;
-finalmente, se presentan algunas métricas de evaluación generads con la matriz de confusión, asimismo se hace uso del método de validación cruzada. 
+finalmente, se presentan algunas métricas de evaluación generadas con la matriz de confusión, asimismo, se hace uso del método de validación cruzada. 
